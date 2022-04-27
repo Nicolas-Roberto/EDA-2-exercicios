@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646409799 source:c:\users\cliente\desktop\workspace\eda2\desfiledepatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

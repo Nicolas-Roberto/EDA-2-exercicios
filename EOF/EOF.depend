@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643067873 source:c:\users\cliente\desktop\workspace\eda2\eof\main.c
+	<stdio.h>
+	<stdlib.h>
+
